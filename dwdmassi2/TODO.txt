@@ -1,1 +1,8 @@
 Language decided: Python
+
+Task 1:
+* Read the problem statement carefully.
+* Note down in brief (update Task 2) about what all is to be done.
+* Use sample codes of classifiers.
+
+Task 2:
