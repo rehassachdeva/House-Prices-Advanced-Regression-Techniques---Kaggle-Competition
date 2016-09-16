@@ -6,3 +6,9 @@ Task 1:
 * Use sample codes of classifiers.
 
 Task 2:
+* functions for loading training and test data
+* evaluate accuracy of sample_submission.csv
+Evaluation criteria: RMSE between log(predicted value) and log(observed value)
+* function for printing output in format:
+Id,SalePrice
+1461,169000.1
